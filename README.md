@@ -30,4 +30,5 @@ if you are preparing your own wordlist save it as 'wordlist' in same folder and 
     Decoders society
     Developer : Nikhil Mohan  
     Instutuion :Gla University   
+    Knowledge links https://null-byte.wonderhowto.com/how-to/hack-like-pro-crack-passwords-part-4-creating-custom-wordlist-with-crunch-0156817/
  
